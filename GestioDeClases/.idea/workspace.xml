@@ -1,0 +1,868 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/Vista/plugins/bootstrap-notify/l.html" line="13" mnemonic="2" />
+    <bookmark url="file://$PROJECT_DIR$/Modelo/vciclos.php" line="2" mnemonic="7" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2ffcc7d4-83f3-4a77-8cbf-3be990643aa1" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="horario.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Vista/horario.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="37">
+              <caret line="72" column="25" lean-forward="true" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+              <folding>
+                <marker date="1501707413467" expanded="true" signature="8068:8165" ph="SELECT * FRO... asignatura" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="vciclos.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Modelo/vciclos.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="53" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="53" />
+              <folding>
+                <marker date="1501702221453" expanded="true" signature="225:305" ph="SELECT * FRO... ciclo" />
+                <marker date="1501702221453" expanded="true" signature="897:1012" ph="UPDATE ciclo... " />
+                <marker date="1501702221453" expanded="true" signature="1104:1154" ph="DELETE FROM " />
+                <marker date="1501702221453" expanded="true" signature="1248:1307" ph="UPDATE prueb... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ProfesoresCtlr.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Controlador/ProfesoresCtlr.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="39" column="12" lean-forward="false" selection-start-line="39" selection-start-column="12" selection-end-line="42" selection-end-column="45" />
+              <folding>
+                <marker date="1501706878846" expanded="true" signature="4077:4111" ph="..." />
+                <marker date="1501706878846" expanded="true" signature="4188:4220" ph="..." />
+                <marker date="1501706878846" expanded="true" signature="4503:4537" ph="..." />
+                <marker date="1501706878846" expanded="true" signature="4614:4646" ph="..." />
+                <marker date="1501706878846" expanded="true" signature="4894:4928" ph="..." />
+                <marker date="1501706878846" expanded="true" signature="5001:5033" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Profesores.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Modelo/Profesores.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="144" column="58" lean-forward="true" selection-start-line="144" selection-start-column="26" selection-end-line="144" selection-end-column="58" />
+              <folding>
+                <marker date="1501706933925" expanded="true" signature="2166:2236" ph="INSERT INTO bd_pro.prueba... " />
+                <marker date="1501706933925" expanded="true" signature="2811:2857" ph="INSERT INTO bd_pro.prueba... " />
+                <marker date="1501706933925" expanded="true" signature="3113:3134" ph="SELECT * FRO... ciclos" />
+                <marker date="1501706933925" expanded="true" signature="3333:3346" ph="SELECT * FRO... " />
+                <marker date="1501706933925" expanded="true" signature="3333:3347" ph="SELECT * FRO... ${$tabla}" />
+                <marker date="1501706933925" expanded="true" signature="3333:3352" ph="SELECT * FRO... ciclo" />
+                <marker date="1501706933925" expanded="true" signature="3333:3354" ph="SELECT * FRO... " />
+                <marker date="1501706933925" expanded="true" signature="3615:3658" ph="SELECT * FRO... prueba" />
+                <marker date="1501706933925" expanded="true" signature="4034:4111" ph="SELECT Nombr... prueba" />
+                <marker date="1501706933925" expanded="true" signature="4964:4995" ph="select *from... prueba" />
+                <marker date="1501706933925" expanded="true" signature="5770:5790" ph="SELECT * FRO... prueba" />
+                <marker date="1501706933925" expanded="true" signature="9432:9473" ph="SELECT * FRO... prueba" />
+                <marker date="1501706933925" expanded="true" signature="9553:9617" ph="SELECT * FRO... prueba" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="horariio.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Modelo/horariio.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+              <folding>
+                <marker date="1501712796071" expanded="true" signature="224:244" ph="SELECT * FRO... ciclos" />
+                <marker date="1501712796071" expanded="true" signature="587:668" ph="INSERT INTO bd_pro.ciclos... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>esta</find>
+      <find>cartcontent</find>
+      <find>maintd</find>
+      <find>form</find>
+      <find>container</find>
+      <find>table</find>
+      <find>name=&quot;p&quot;</find>
+      <find>delete</find>
+      <find>cart_item</find>
+      <find>g</find>
+      <find>buscarForId</find>
+      <find>buscar</find>
+      <find>ida</find>
+      <find>index</find>
+      <find>item</find>
+      <find>sno</find>
+      <find>price</find>
+      <find>archivos</find>
+      <find>PROFESI</find>
+      <find>profes</find>
+      <find>ciclo</find>
+      <find>prof</find>
+      <find>idC</find>
+      <find>getIdAl</find>
+      <find>description</find>
+      <find>idc</find>
+      <find>html</find>
+      <find>navbar-form</find>
+      <find>$htmlSelect</find>
+      <find>inser</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Vista/hor/index.php" />
+        <option value="$PROJECT_DIR$/Vista/MisEds.php" />
+        <option value="$PROJECT_DIR$/Vista/card/css/style.css" />
+        <option value="$PROJECT_DIR$/Vista/card/card.php" />
+        <option value="$PROJECT_DIR$/Vista/verprofe.php" />
+        <option value="$PROJECT_DIR$/Vista/verAd.php" />
+        <option value="$PROJECT_DIR$/Vista/verAula.php" />
+        <option value="$PROJECT_DIR$/Vista/snippers/MenuLeftPro.php" />
+        <option value="$PROJECT_DIR$/Controlador/EstudiantesCtlr.php" />
+        <option value="$PROJECT_DIR$/Vista/card.php" />
+        <option value="$PROJECT_DIR$/Vista/horario/index.php" />
+        <option value="$PROJECT_DIR$/Vista/horario/css/style.css" />
+        <option value="$PROJECT_DIR$/Vista/js/cart.php" />
+        <option value="$PROJECT_DIR$/Vista/horario/css/stle.css" />
+        <option value="$PROJECT_DIR$/Vista/horario2.0.php" />
+        <option value="$PROJECT_DIR$/Vista/horario/js/cart.php" />
+        <option value="$PROJECT_DIR$/Vista/js/script.js" />
+        <option value="$PROJECT_DIR$/Vista/checkout.php" />
+        <option value="$PROJECT_DIR$/Vista/login.php" />
+        <option value="$PROJECT_DIR$/Controlador/comp.php" />
+        <option value="$PROJECT_DIR$/Vista/Admin.php" />
+        <option value="$PROJECT_DIR$/Controlador/AdminCtlr.php" />
+        <option value="$PROJECT_DIR$/Modelo/vAula.php" />
+        <option value="$PROJECT_DIR$/Modelo/vAsig.php" />
+        <option value="$PROJECT_DIR$/Vista/Profe.php" />
+        <option value="$PROJECT_DIR$/Modelo/vprofe.php" />
+        <option value="$PROJECT_DIR$/Vista/Estudiantes.php" />
+        <option value="$PROJECT_DIR$/Vista/vereds.php" />
+        <option value="$PROJECT_DIR$/Vista/snippers/MenuRight.php" />
+        <option value="$PROJECT_DIR$/Vista/snippers/MenuLeftEds.php" />
+        <option value="$PROJECT_DIR$/Vista/index.php" />
+        <option value="$PROJECT_DIR$/Controlador/ProgramaCtlr.php" />
+        <option value="$PROJECT_DIR$/Modelo/Programa.php" />
+        <option value="$PROJECT_DIR$/Vista/verprog.php" />
+        <option value="$PROJECT_DIR$/Modelo/vprog.php" />
+        <option value="$PROJECT_DIR$/Vista/snippers/MenuLeft.php" />
+        <option value="$PROJECT_DIR$/Vista/verAsig.php" />
+        <option value="$PROJECT_DIR$/Controlador/AsigCtlr.php" />
+        <option value="$PROJECT_DIR$/Modelo/Asignatura.php" />
+        <option value="$PROJECT_DIR$/Modelo/Aulas.php" />
+        <option value="$PROJECT_DIR$/formulario_prueba/formulario_prueba/enviar.php" />
+        <option value="$PROJECT_DIR$/Modelo/vciclo.php" />
+        <option value="$PROJECT_DIR$/Modelo/Conexion.php" />
+        <option value="$PROJECT_DIR$/Modelo/vciclos.php" />
+        <option value="$PROJECT_DIR$/Modelo/Ciclo.php" />
+        <option value="$PROJECT_DIR$/Controlador/CicloCtlr.php" />
+        <option value="$PROJECT_DIR$/Vista/verciclos.php" />
+        <option value="$PROJECT_DIR$/Controlador/ProfesoresCtlr.php" />
+        <option value="$PROJECT_DIR$/Modelo/Profesores.php" />
+        <option value="$PROJECT_DIR$/Vista/horario.php" />
+        <option value="$PROJECT_DIR$/Modelo/horariio.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GestioDeClases" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GestioDeClases" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vista" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GestioDeClases" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GestioDeClases" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Vista" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GestioDeClases" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GestioDeClases" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Modelo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GestioDeClases" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="GestioDeClases" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controlador" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/__MACOSX/GestionDeClases" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\GestioDeClases\Vista\plugins" />
+      <recent name="C:\xampp\htdocs\GestioDeClases" />
+      <recent name="C:\xampp\htdocs\GestioDeClases\Modelo" />
+      <recent name="C:\xampp\htdocs\GestioDeClases\Controlador" />
+      <recent name="C:\xampp\htdocs\GestioDeClases\Vista" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\GestioDeClases\Vista\js" />
+      <recent name="C:\xampp\htdocs\GestioDeClases\Vista" />
+      <recent name="C:\xampp\htdocs\GestioDeClases\Vista\hor" />
+      <recent name="C:\xampp\htdocs\GestioDeClases\Vista\pag" />
+      <recent name="C:\xampp\htdocs\GestioDeClases\Vista\eliminar" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CodeceptionConfigurationType" factoryName="Codeception">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2ffcc7d4-83f3-4a77-8cbf-3be990643aa1" name="Default" comment="" />
+      <created>1499646704038</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1499646704038</updated>
+      <workItem from="1499646705583" duration="3767000" />
+      <workItem from="1499811536310" duration="9733000" />
+      <workItem from="1499895466261" duration="19673000" />
+      <workItem from="1499985604330" duration="14813000" />
+      <workItem from="1500007310262" duration="4738000" />
+      <workItem from="1500059921078" duration="24905000" />
+      <workItem from="1500161143820" duration="31645000" />
+      <workItem from="1500314389175" duration="1888000" />
+      <workItem from="1500326970157" duration="1697000" />
+      <workItem from="1500346015568" duration="594000" />
+      <workItem from="1500486087899" duration="9393000" />
+      <workItem from="1500606129038" duration="270000" />
+      <workItem from="1500835145247" duration="4389000" />
+      <workItem from="1500841883323" duration="14651000" />
+      <workItem from="1500858976891" duration="16876000" />
+      <workItem from="1500948917581" duration="12792000" />
+      <workItem from="1501036456090" duration="29848000" />
+      <workItem from="1501101145393" duration="20950000" />
+      <workItem from="1501182637919" duration="4542000" />
+      <workItem from="1501188391915" duration="1238000" />
+      <workItem from="1501191277858" duration="53000" />
+      <workItem from="1501193817565" duration="45527000" />
+      <workItem from="1501457500496" duration="28891000" />
+      <workItem from="1501528656441" duration="2409000" />
+      <workItem from="1501551773633" duration="3217000" />
+      <workItem from="1501566266929" duration="22149000" />
+      <workItem from="1501641638846" duration="1511000" />
+      <workItem from="1501643279346" duration="8858000" />
+      <workItem from="1501701156036" duration="4083000" />
+      <workItem from="1501705909836" duration="4524000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="357554000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20790629" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32913387" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="12" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Vista/images/1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/ian.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controlador/comp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="46" lean-forward="false" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1791">
+          <caret line="58" column="74" lean-forward="false" selection-start-line="58" selection-start-column="74" selection-end-line="58" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controlador/AdminCtlr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="42" column="37" lean-forward="false" selection-start-line="42" selection-start-column="37" selection-end-line="42" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controlador/EstudiantesCtlr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="34" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo/vAula.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="49" lean-forward="false" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/js/pages/forms/basic-form-elements.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/plugins/bootstrap-material-datetimepicker/js/bootstrap-material-datetimepicker.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="213" column="58" lean-forward="false" selection-start-line="213" selection-start-column="57" selection-end-line="213" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/Profe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="307" column="64" lean-forward="false" selection-start-line="307" selection-start-column="64" selection-end-line="307" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/vereds.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="148" column="39" lean-forward="false" selection-start-line="148" selection-start-column="39" selection-end-line="148" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo/vprofe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="61" column="12" lean-forward="true" selection-start-line="61" selection-start-column="12" selection-end-line="61" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/l.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/snippers/MenuRight.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="23" lean-forward="false" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/css/sweetalert.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/snippers/MenuLeftEds.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="48" lean-forward="false" selection-start-line="4" selection-start-column="48" selection-end-line="4" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/snippers/MenuLeftPro.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/horario2.0.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="85" column="64" lean-forward="false" selection-start-line="85" selection-start-column="64" selection-end-line="85" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/verprog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="161" column="29" lean-forward="false" selection-start-line="161" selection-start-column="29" selection-end-line="161" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo/vprog.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="21" column="39" lean-forward="false" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/snippers/MenuLeft.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="90" column="40" lean-forward="false" selection-start-line="90" selection-start-column="40" selection-end-line="90" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/verprofe.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo/Programa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="178" column="0" lean-forward="false" selection-start-line="178" selection-start-column="0" selection-end-line="178" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo/vAsig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-61">
+          <caret line="13" column="181" lean-forward="false" selection-start-line="13" selection-start-column="181" selection-end-line="13" selection-end-column="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controlador/AsigCtlr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="302">
+          <caret line="24" column="49" lean-forward="true" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo/Aulas.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="55" column="42" lean-forward="false" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo/Asignatura.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/verAsig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="253" column="72" lean-forward="true" selection-start-line="253" selection-start-column="72" selection-end-line="253" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="116" column="61" lean-forward="false" selection-start-line="116" selection-start-column="61" selection-end-line="116" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/formulario_prueba/formulario_prueba/js/jquery.validate.js" />
+    <entry file="file://$PROJECT_DIR$/formulario_prueba/formulario_prueba/respuesta.php" />
+    <entry file="file://$PROJECT_DIR$/formulario_prueba/formulario_prueba/enviar.php" />
+    <entry file="file://$PROJECT_DIR$/formulario_prueba/formulario_prueba/formulario.php" />
+    <entry file="file://$PROJECT_DIR$/Modelo/vciclo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/plugins/css/demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/plugins/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/plugins/bootstrap/css/bootstrap.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="4439" column="3" lean-forward="false" selection-start-line="4439" selection-start-column="3" selection-end-line="4439" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/plugins/css/material-dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="4799" column="34" lean-forward="false" selection-start-line="4799" selection-start-column="23" selection-end-line="4799" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo/Ciclo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="130" column="0" lean-forward="true" selection-start-line="130" selection-start-column="0" selection-end-line="130" selection-end-column="0" />
+          <folding>
+            <marker date="1501704381504" expanded="true" signature="1543:1553" ph="..." />
+            <marker date="1501704381504" expanded="true" signature="1615:1625" ph="..." />
+            <marker date="1501704381504" expanded="true" signature="2482:2501" ph="SELECT * FRO... ciclo" />
+            <marker date="1501704381504" expanded="true" signature="2573:2611" ph="SELECT * FRO... ciclo" />
+            <marker date="1501704381504" expanded="true" signature="2573:2626" ph="SELECT * FRO... ciclo" />
+            <marker date="1501704381504" expanded="true" signature="2573:2641" ph="SELECT * FRO... ciclo" />
+            <marker date="1501704381504" expanded="true" signature="2573:2655" ph="SELECT * FRO... ciclo" />
+            <marker date="1501704381504" expanded="true" signature="2573:2656" ph="SELECT * FRO... ciclo" />
+            <marker date="1501704381504" expanded="true" signature="3158:3201" ph="INSERT INTO bd_pro.ciclo... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controlador/CicloCtlr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo/Conexion.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="23" column="23" lean-forward="false" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="n#con#0;n#conexion#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controlador/ProgramaCtlr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="547">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/js/jquery.tabledit.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/Estudiantes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="122" column="131" lean-forward="false" selection-start-line="122" selection-start-column="83" selection-end-line="122" selection-end-column="131" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/verciclos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="232" column="28" lean-forward="false" selection-start-line="232" selection-start-column="28" selection-end-line="232" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Vista/horario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="37">
+          <caret line="72" column="25" lean-forward="true" selection-start-line="72" selection-start-column="25" selection-end-line="72" selection-end-column="25" />
+          <folding>
+            <marker date="1501707413467" expanded="true" signature="8068:8165" ph="SELECT * FRO... asignatura" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo/Profesores.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="144" column="58" lean-forward="true" selection-start-line="144" selection-start-column="26" selection-end-line="144" selection-end-column="58" />
+          <folding>
+            <marker date="1501706933925" expanded="true" signature="2166:2236" ph="INSERT INTO bd_pro.prueba... " />
+            <marker date="1501706933925" expanded="true" signature="2811:2857" ph="INSERT INTO bd_pro.prueba... " />
+            <marker date="1501706933925" expanded="true" signature="3113:3134" ph="SELECT * FRO... ciclos" />
+            <marker date="1501706933925" expanded="true" signature="3333:3346" ph="SELECT * FRO... " />
+            <marker date="1501706933925" expanded="true" signature="3333:3347" ph="SELECT * FRO... ${$tabla}" />
+            <marker date="1501706933925" expanded="true" signature="3333:3352" ph="SELECT * FRO... ciclo" />
+            <marker date="1501706933925" expanded="true" signature="3333:3354" ph="SELECT * FRO... " />
+            <marker date="1501706933925" expanded="true" signature="3615:3658" ph="SELECT * FRO... prueba" />
+            <marker date="1501706933925" expanded="true" signature="4034:4111" ph="SELECT Nombr... prueba" />
+            <marker date="1501706933925" expanded="true" signature="4964:4995" ph="select *from... prueba" />
+            <marker date="1501706933925" expanded="true" signature="5770:5790" ph="SELECT * FRO... prueba" />
+            <marker date="1501706933925" expanded="true" signature="9432:9473" ph="SELECT * FRO... prueba" />
+            <marker date="1501706933925" expanded="true" signature="9553:9617" ph="SELECT * FRO... prueba" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Controlador/ProfesoresCtlr.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="39" column="12" lean-forward="false" selection-start-line="39" selection-start-column="12" selection-end-line="42" selection-end-column="45" />
+          <folding>
+            <marker date="1501706878846" expanded="true" signature="4077:4111" ph="..." />
+            <marker date="1501706878846" expanded="true" signature="4188:4220" ph="..." />
+            <marker date="1501706878846" expanded="true" signature="4503:4537" ph="..." />
+            <marker date="1501706878846" expanded="true" signature="4614:4646" ph="..." />
+            <marker date="1501706878846" expanded="true" signature="4894:4928" ph="..." />
+            <marker date="1501706878846" expanded="true" signature="5001:5033" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo/vciclos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="53" lean-forward="false" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="53" />
+          <folding>
+            <marker date="1501702221453" expanded="true" signature="225:305" ph="SELECT * FRO... ciclo" />
+            <marker date="1501702221453" expanded="true" signature="897:1012" ph="UPDATE ciclo... " />
+            <marker date="1501702221453" expanded="true" signature="1104:1154" ph="DELETE FROM " />
+            <marker date="1501702221453" expanded="true" signature="1248:1307" ph="UPDATE prueb... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Modelo/horariio.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding>
+            <marker date="1501712796071" expanded="true" signature="224:244" ph="SELECT * FRO... ciclos" />
+            <marker date="1501712796071" expanded="true" signature="587:668" ph="INSERT INTO bd_pro.ciclos... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
